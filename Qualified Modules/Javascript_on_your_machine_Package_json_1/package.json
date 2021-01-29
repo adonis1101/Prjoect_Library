@@ -1,9 +1,0 @@
-{
-  "name": "package-json-practice",
-  "version": "1.0.0",
-  "description": "practice",
-  "scripts": {"start": "node main.js"},
-  "keywords": [],
-  "author": "Adonis",
-  "license": "ISC"
-}
